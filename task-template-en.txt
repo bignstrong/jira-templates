@@ -1,0 +1,19 @@
+{panel:title=🛠️ Task summary|bgColor=#E8E7FF}
+What needs to be done, briefly. _E.g.: "finance-rest unit tests fail on node agent XYZ"._
+{panel}
+
+h3. 🔥 Impact & priority
+Why now and how urgent. _Don't forget the Priority field._
+
+h3. ⏱️ Time estimate
+*What we budget:* _e.g. 4h / 2d_ — _Don't forget the Original estimate field._
+
+h3. 📋 Description
+Details: context, current vs expected, screenshots / logs inline.
+
+h3. ✅ Definition of Done
+* [ ] …
+* [ ] …
+
+h3. 🔗 Links & notes
+Links to tickets, threads, follow-ups. Technical details worth keeping.

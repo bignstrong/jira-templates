@@ -1,0 +1,36 @@
+{panel:title=🚀 Epic summary|bgColor=#EAE6FF}
+*What large chunk of work, and why.* An epic groups several stories/tasks toward a shared goal.
+_E.g.: "Pin chats in folders" — a cross-cutting feature: backend + Android + iOS + Web._
+{panel}
+
+h3. 🎯 Goal & business value
+What big pain or opportunity we close, and how we'll know the epic succeeded (metric / outcome). _Don't forget the Priority field._
+
+h3. 🧩 Epic scope (child stories)
+Child stories/tasks — link them via *Epic Link*.
+* (Story) … — _link_
+* (Story) … — _link_
+* (Task) … — _link_
+
+h3. 🚫 Out of scope
+What is deliberately NOT part of the epic, so it doesn't sprawl.
+* …
+
+h3. ⏱️ Estimate & milestones
+*Rough timeline / sprints:* _e.g. 2 sprints_. Key milestones and sequence.
+
+h3. 📋 Description & context
+Architecture, dependencies, API contracts, breaking changes — the big picture for all teams.
+
+{panel:title=⚠️ Breaking change|bgColor=#FFF0E6}
+If the epic breaks an existing contract — describe exactly what, and who we coordinate the release with. Delete this panel if not applicable.
+{panel}
+
+{panel:title=🎯 Epic Definition of Done|bgColor=#E3FDEE}
+* [ ] All child stories closed and accepted
+* [ ] …
+_Epic done = value shipped to the user._
+{panel}
+
+h3. 🔗 Links & notes
+Dependencies, adjacent teams, release coordination, links to docs / design.

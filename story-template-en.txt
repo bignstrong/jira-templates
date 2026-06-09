@@ -1,0 +1,25 @@
+{panel:title=⭐ Story summary|bgColor=#DCEAFF}
+*As a* _role_, *I want* _action_, *so that* _value_.
+_E.g.: as a broker, I want to use the Trucking API so I don't parse files by hand._
+{panel}
+
+h3. 💡 Value & priority
+What pain we're closing. _E.g.: without this, finance loses 2 h/week on the manual task XYZ._ Don't forget the Priority field.
+
+h3. ⏱️ Time estimate
+*What we budget:* _e.g. 4h / 2d_ — _Don't forget the Original estimate field._
+
+h3. 📋 Description
+Details, current vs expected behaviour, screenshots / mockups inline.
+
+{panel:title=🎯 Acceptance Criteria|bgColor=#E3FDEE}
+* [ ] Given … When … Then …
+* [ ] …
+_Must be agreed before development starts._
+{panel}
+
+h3. ✅ Test cases
+# Step-by-step verification scenario.
+
+h3. 🔗 Links & notes
+Links to tickets, feedback, follow-ups. Technical details worth keeping.

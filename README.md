@@ -24,16 +24,10 @@ jira-issue-templates/
 ├── story-template.txt       # ⭐ шаблон стори
 ├── task-template.txt        # 🛠️ шаблон задачи
 ├── bug-template.txt         # 🐞 шаблон бага
-├── examples/
-│   └── pin-in-folder.txt    # пример заполненного эпика (пин комнаты в папке)
 └── README.md
 ```
 
----
-
-## 📖 Пример
-
-[`examples/pin-in-folder.txt`](examples/pin-in-folder.txt) — реальный эпик «Закрепление комнаты в папке» (Synapse + клиенты): состав эпика, breaking change, API-контракт, критерии приёмки и тест-кейсы. Удобно подсмотреть, как выглядит заполненный шаблон.
+> 🇬🇧 Английская версия шаблонов — файлы с приставкой `-en` (`epic-template-en.txt`, …) и [`README-en.md`](README-en.md).
 
 ---
 
