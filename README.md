@@ -15,6 +15,7 @@
 | ⭐ **Story** | [`story-template.txt`](story-template.txt) | Пользовательская ценность: «*как роль, хочу …, чтобы …*» |
 | 🛠️ **Task** | [`task-template.txt`](task-template.txt) | Техническая работа без прямой user-story |
 | 🐞 **Bug** | [`bug-template.txt`](bug-template.txt) | Что-то сломано: шаги, ожидаем/получаем, root cause |
+| 🔎 **Code Review** | [`code-review-template.md`](code-review-template.md) | Ревью MR/PR: чек-лист, замечания с severity, вердикт. **Markdown** — для GitLab/GitHub или комментария в Jira |
 
 ### 📂 Структура
 
@@ -24,6 +25,7 @@ jira-issue-templates/
 ├── story-template.txt       # ⭐ шаблон стори
 ├── task-template.txt        # 🛠️ шаблон задачи
 ├── bug-template.txt         # 🐞 шаблон бага
+├── code-review-template.md  # 🔎 шаблон код-ревью (markdown)
 └── README.md
 ```
 

@@ -17,6 +17,7 @@ Copy a template → paste it into the *Description* field → fill in the placeh
 | ⭐ **Story** | [`story-template-en.txt`](story-template-en.txt) | User value: "*as a role, I want …, so that …*" |
 | 🛠️ **Task** | [`task-template-en.txt`](task-template-en.txt) | Technical work without a direct user story |
 | 🐞 **Bug** | [`bug-template-en.txt`](bug-template-en.txt) | Something is broken: steps, expected/actual, root cause |
+| 🔎 **Code Review** | [`code-review-template-en.md`](code-review-template-en.md) | MR/PR review: checklist, findings with severity, verdict. **Markdown** — for GitLab/GitHub or a Jira comment |
 
 ### 📂 Structure
 
@@ -26,6 +27,7 @@ jira-issue-templates/
 ├── story-template-en.txt    # ⭐ story template
 ├── task-template-en.txt     # 🛠️ task template
 ├── bug-template-en.txt      # 🐞 bug template
+├── code-review-template-en.md # 🔎 code review template (markdown)
 └── README-en.md
 ```
 
