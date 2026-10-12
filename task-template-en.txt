@@ -11,9 +11,18 @@ h3. ⏱️ Time estimate
 h3. 📋 Description
 Details: context, current vs expected, screenshots / logs inline.
 
+h3. 🔌 For clients (iOS / Android / Web)
+_Nothing changes for clients — say so in one line and delete the rest._
+* *Endpoints:* ours — link to the operation in Swagger; standard Matrix — link to https://spec.matrix.org/latest/ or the MSC
+* *Flow:* which calls in what order for the client to build the feature
+* *Errors:* HTTP + errcode → what to show the user
+* *What changed:* added and removed fields, codes, behaviour
+* *Available on:* dev since DD.MM / prod since DD.MM, flag if any
+
 h3. ✅ Definition of Done
 * [ ] …
 * [ ] …
+* [ ] "For clients" block filled in, task link shared in the client tasks or the epic
 
 h3. 🔗 Links & notes
 Links to tickets, threads, follow-ups. Technical details worth keeping.

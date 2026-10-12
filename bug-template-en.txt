@@ -19,6 +19,12 @@ _Attach screenshots / gifs inline._
 h3. 🔍 Root cause
 Why it happened — filled by BA / Dev during triage.
 
+h3. 🔌 For clients (iOS / Android / Web)
+_Server response does not change after the fix — say so in one line._
+* *Endpoints:* which ones are affected — link to the operation in Swagger or to https://spec.matrix.org/latest/
+* *What changed:* fields, codes (HTTP + errcode), behaviour
+* *Client change needed:* yes / no, what exactly
+
 h3. ✅ Test cases
 # Clear step-by-step scenario to verify the fix.
 

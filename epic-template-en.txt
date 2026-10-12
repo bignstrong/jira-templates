@@ -22,12 +22,20 @@ h3. ⏱️ Estimate & milestones
 h3. 📋 Description & context
 Architecture, dependencies, API contracts, breaking changes — the big picture for all teams.
 
+h3. 🔌 For clients (iOS / Android / Web)
+One place every client team checks for this epic. Child tasks link here instead of retelling it.
+* *Contract:* link to the contract page or the feature passport in Confluence
+* *Endpoints by service:* ours — link to the operation in Swagger; standard Matrix — link to https://spec.matrix.org/latest/ or the MSC
+* *What we take from Matrix as is:* spec sections / MSCs and the server flags we enable for it
+* *Available on:* dev since DD.MM / prod since DD.MM
+
 {panel:title=⚠️ Breaking change|bgColor=#FFF0E6}
 If the epic breaks an existing contract — describe exactly what, and who we coordinate the release with. Delete this panel if not applicable.
 {panel}
 
 {panel:title=🎯 Epic Definition of Done|bgColor=#E3FDEE}
 * [ ] All child stories closed and accepted
+* [ ] "For clients" block up to date at closing
 * [ ] …
 _Epic done = value shipped to the user._
 {panel}
