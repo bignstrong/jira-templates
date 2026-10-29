@@ -5,9 +5,6 @@ One sentence: what's broken and where. _E.g.: "clicking 'Publish' does nothing".
 h3. 🔥 Impact & priority
 Who is affected and how, how urgent. _Don't forget to set the Priority field._
 
-h3. ⏱️ Time estimate
-*What we budget:* _e.g. 4h / 2d_ — _Don't forget the Original estimate field._
-
 h3. 📋 Description & steps to reproduce
 # Step 1…
 # Step 2…

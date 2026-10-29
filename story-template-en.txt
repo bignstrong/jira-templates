@@ -6,9 +6,6 @@ _E.g.: as a broker, I want to use the Trucking API so I don't parse files by han
 h3. 💡 Value & priority
 What pain we're closing. _E.g.: without this, finance loses 2 h/week on the manual task XYZ._ Don't forget the Priority field.
 
-h3. ⏱️ Time estimate
-*What we budget:* _e.g. 4h / 2d_ — _Don't forget the Original estimate field._
-
 h3. 📋 Description
 Details, current vs expected behaviour, screenshots / mockups inline.
 

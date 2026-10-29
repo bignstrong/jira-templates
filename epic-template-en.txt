@@ -16,8 +16,8 @@ h3. 🚫 Out of scope
 What is deliberately NOT part of the epic, so it doesn't sprawl.
 * …
 
-h3. ⏱️ Estimate & milestones
-*Rough timeline / sprints:* _e.g. 2 sprints_. Key milestones and sequence.
+h3. 🗺️ Milestones
+Key milestones and sequence.
 
 h3. 📋 Description & context
 Architecture, dependencies, API contracts, breaking changes — the big picture for all teams.

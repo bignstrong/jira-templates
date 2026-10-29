@@ -20,13 +20,13 @@
 ### 📂 Структура
 
 ```
-jira-issue-templates/
-├── epic-template.txt        # 🚀 шаблон эпика
-├── story-template.txt       # ⭐ шаблон стори
-├── task-template.txt        # 🛠️ шаблон задачи
-├── bug-template.txt         # 🐞 шаблон бага
-├── code-review-template.md  # 🔎 шаблон код-ревью (markdown)
-└── README.md
+jira-templates/
+├── epic-template.txt / epic-template-en.txt                    # 🚀 эпик
+├── story-template.txt / story-template-en.txt                  # ⭐ стори
+├── task-template.txt / task-template-en.txt                    # 🛠️ задача
+├── bug-template.txt / bug-template-en.txt                      # 🐞 баг
+├── code-review-template.md / code-review-template-en.md        # 🔎 код-ревью (markdown)
+└── README.md / README-en.md
 ```
 
 > 🇬🇧 Английская версия шаблонов — файлы с приставкой `-en` (`epic-template-en.txt`, …) и [`README-en.md`](README-en.md).

@@ -22,13 +22,13 @@ Copy a template → paste it into the *Description* field → fill in the placeh
 ### 📂 Structure
 
 ```
-jira-issue-templates/
-├── epic-template-en.txt     # 🚀 epic template
-├── story-template-en.txt    # ⭐ story template
-├── task-template-en.txt     # 🛠️ task template
-├── bug-template-en.txt      # 🐞 bug template
-├── code-review-template-en.md # 🔎 code review template (markdown)
-└── README-en.md
+jira-templates/
+├── epic-template.txt / epic-template-en.txt                    # 🚀 epic
+├── story-template.txt / story-template-en.txt                  # ⭐ story
+├── task-template.txt / task-template-en.txt                    # 🛠️ task
+├── bug-template.txt / bug-template-en.txt                      # 🐞 bug
+├── code-review-template.md / code-review-template-en.md        # 🔎 code review (markdown)
+└── README.md / README-en.md
 ```
 
 ---
